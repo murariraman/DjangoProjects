@@ -1,0 +1,1 @@
+YOU HAVE OPENED FILE IN W+ MODE. It means you have opened write, read
